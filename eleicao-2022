@@ -1,0 +1,43 @@
+<html>
+<meta charset=utf-8>
+<head>
+<style>
+ html {background-color: 	#FF0000}
+ #texto-footer {width: 500px;}
+ #imagem-footer {float: left;}
+ #titulo-eleicao{color:#D2691E}
+ #titulo-eleiçao2{color:#D2691E}
+ #id=sabryna-texto-footer{width: 500px;}
+
+</style>
+<title>eleiçao 2022</title>
+</head>
+
+<body>
+<div style="background-color: 	 	#FFA07A">
+    <img src="Link para img da eleiçao 2022" height="300"width="1000">    
+    <h1 id="titulo-eleicao">Eleiçao 2022</h1>
+<p>A Eleiçao ira acontecer no dia dois de outubro 02/10 caso ter segundo turno ira acontecer no dia trinta de outubro 30/10 no nosso pais so uma fazer que nao terve segundo turno que Foi o primeiro Presidente eleito pelo voto popular depois de 25 anos de regime de exceção.</p>
+<h2 id=titulo-eleiçao2>essa eleçao iremos eleger ?</h2>
+ <p>presidente,governado,senador,deputado federal e deputado estatual eles iram assumir o seu mandato aparti de 2023 em janeiro dia primeiro</p>
+</body>
+
+<footer>
+<p id="texto-footer">
+<img id="imagem-footer" src="Link para foto pra o site cobra kai"height="100"width="100">
+<p>Renan roselio</p>
+<p>Estudante da e.m.e.f procopio ferreira escolar municipal</p> 
+Esse é dos site que o nosso criardor Renan Roselio criou <a href="https://black344.github.io/cobra-kai/" target="_blank">clique aqui nesse link pra ir para pagina cobra kai</a>
+</p>
+E-mail:<a style="color:#556B2F" href="mailto:renan.saoluis.ronan.2007@gmail.com">renan.saoluis.ronan.2007@gmail.com</a></p>
+ 
+ <p id=sabryna-texto-footer>
+ <img src="">
+ <p>sabryna araujo</p>
+  <p>estudante do Reverendo Jacques Orlando Caminha D'Avila escola estadual </p>
+  <p><a href="https://sabrynaa12.github.io/primeirapagina/">clique aqui para ir no site da nossa criadora sabryna araujo</a></p>
+  
+</footer>
+
+
+</html>
